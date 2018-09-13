@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 
 app.get("/", function (req, res) {
-    res.send("Friend Finder App")
+    res.sendFile(path.join(__dirname + "/app/public/survery.html"))
 })
 
 
