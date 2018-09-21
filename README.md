@@ -1,6 +1,6 @@
 # FriendFinder
 
-A friend finding app that was created using Node and Express servers. It will allow a user to complete a short survey and get matched with another friend that closely mathces their personality. 
+A friend finding web app that was created using Node and Express servers. It will allow a user to complete a short survey and get matched with another friend that closely mathces their personality. 
 
 ### Live Version
 
